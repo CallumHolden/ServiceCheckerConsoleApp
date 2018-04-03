@@ -1,0 +1,1 @@
+E:\ServiceChecker\ServicePickerConsoleApp\ServicePickerConsoleApp\bin\Debug\ServicePickerConsoleApp.exe.config
